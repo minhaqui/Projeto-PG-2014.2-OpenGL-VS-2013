@@ -1,0 +1,16 @@
+﻿Build started 28/11/2014 07:47:23.
+     1>Project "C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Projeto Base PG - OpenGL.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Dependencies\Include\\" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Intermediary\Debug\\" /Fd"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Intermediary\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Code\openGL_tutorial.cpp
+         openGL_tutorial.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Output\Debug\Projeto Base PG - OpenGL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Dependencies\Lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Output\Debug\Projeto Base PG - OpenGL.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Output\Debug\Projeto Base PG - OpenGL.lib" /MACHINE:X86 "C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Intermediary\Debug\objloader.obj"
+         "C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Intermediary\Debug\openGL_tutorial.obj"
+         Projeto Base PG - OpenGL.vcxproj -> C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Output\Debug\Projeto Base PG - OpenGL.exe
+     1>Done Building Project "C:\UFPE\IF680 - Processamento Gráfico\Projeto Base PG - OpenGL - VS 2013\Projeto Base PG - OpenGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.33
